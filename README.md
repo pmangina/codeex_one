@@ -27,6 +27,7 @@ java -jar salarycheck-0.0.1-SNAPSHOT.jar /tmp/input_file.csv
 4) Prints output in below example format, by iterating the HashMap
 
 <div>
+  <pre>
 ---------------------------------------------------------------------
 Id: 5
 First Name: Kalina
@@ -42,6 +43,7 @@ Salary less by 5851.90
 ---------------------------------------------------------------------
 Employee's level - 7, exceeds Max permissable level - 6.
 ---------------------------------------------------------------------
+  </pre>
 </div>
 
 ###### Frameworks
