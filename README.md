@@ -26,8 +26,8 @@ java -jar salarycheck-0.0.1-SNAPSHOT.jar /tmp/input_file.csv
 3) Sets Level value by iterating through the HashMap. Max iterations are Max Level times. Worst scenario is O(N*N)
 4) Prints output in below example format, by iterating the HashMap
 
->
----------------------------------------------------------------------
+
+> ---------------------------------------------------------------------
 Id: 5
 First Name: Kalina
 Last Name: Corcoran
@@ -35,13 +35,13 @@ Salary: 77771.79
 Level: 7
 Manager: (9) Hylden, Tierney
 Subordinates: (36) Stede, Melosa | (37) O'Hagirtie, Durward | (54) Renzini, Humfrid | (60) Meggison, Anette | (62) Lighton, Junie | (67) Brigginshaw, Guilbert | (74) Dumper, Roi |
----------------------------------------------------------------------
+> ---------------------------------------------------------------------
 Average Salary at level 8 is : 69686.41
 Min Salary expected: 83623.69. Max Salary expected: 104529.61
 Salary less by 5851.90
----------------------------------------------------------------------
+> ---------------------------------------------------------------------
 Employee's level - 7, exceeds Max permissable level - 6.
----------------------------------------------------------------------
+> ---------------------------------------------------------------------
 
 
 ###### Frameworks
